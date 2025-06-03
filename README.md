@@ -1,6 +1,6 @@
 # Task 2
 
-# 🛡️ Task 2: Phishing Email Analysis Report
+# 🛡️ Task 2: Phishing Email Analysis
 
 ## 🎯 Objective
 Analyze a suspicious email sample to identify common phishing characteristics and raise awareness of phishing tactics through technical investigation.
