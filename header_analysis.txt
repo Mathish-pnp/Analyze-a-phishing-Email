@@ -1,0 +1,18 @@
+Return-Path: <noreply@paypal-verify.com>
+Received: from unknown.hostingprovider.ru (unknown.hostingprovider.ru. [185.244.213.150])
+        by mx.google.com with ESMTPS id qwerty123abc456
+        for <user@example.com>;
+        Tue, 3 Jun 2025 12:04:23 -0700 (PDT)
+Received-SPF: fail (google.com: domain of paypal-verify.com does not designate 185.244.213.150 as permitted sender) client-ip=185.244.213.150;
+Authentication-Results: mx.google.com;
+       dkim=fail (no signature) header.d=paypal-verify.com;
+       spf=fail (domain of paypal-verify.com does not designate 185.244.213.150 as permitted sender);
+       dmarc=fail (p=REJECT sp=REJECT dis=NONE) header.from=paypal-verify.com
+From: "PayPal Security Team" <noreply@paypal-verify.com>
+To: <user@example.com>
+Subject: ⚠️ Action Required: Confirm Your Account Now
+Date: Tue, 3 Jun 2025 21:04:12 +0200
+Message-ID: <1234567890@mail.paypal-verify.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
