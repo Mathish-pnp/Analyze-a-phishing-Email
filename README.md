@@ -70,3 +70,13 @@ This email is a classic example of a phishing attempt using:
 ## 📁 Repository Structure
 
 
+
+---
+
+## 📚 References
+
+- [PayPal Phishing Help](https://www.paypal.com/us/webapps/mpp/security/report-problem)
+- [MxToolbox SPF/DKIM Tool](https://mxtoolbox.com)
+- [CanIPhish Email Examples](https://caniphish.com/phishing-email-examples)
+
+
