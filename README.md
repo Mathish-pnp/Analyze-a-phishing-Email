@@ -1,28 +1,28 @@
-# Task 2
 
-# 🛡️ Task 2: Phishing Email Analysis
 
-## 🎯 Objective
+#  Task 2: Phishing Email Analysis
+
+##  Objective
 Analyze a suspicious email sample to identify common phishing characteristics and raise awareness of phishing tactics through technical investigation.
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
-- 📧 Sample Phishing Email (open-source or educational purpose)
-- 🔍 [MxToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
-- 🧠 Manual inspection for phishing indicators (language, links, sender address, etc.)
-
----
-
-## 📬 Sample Email
-
-
-
+-  Sample Phishing Email (open-source or educational purpose)
+-  [MxToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
+-  Manual inspection for phishing indicators (language, links, sender address, etc.)
 
 ---
 
-## 🔍 Analysis and Phishing Indicators
+##  Sample Email
+
+
+
+
+---
+
+##  Analysis and Phishing Indicators
 
 | Indicator                     | Description |
 |-------------------------------|-------------|
@@ -36,7 +36,7 @@ Analyze a suspicious email sample to identify common phishing characteristics an
 
 ---
 
-## 🛠️ Email Header Analysis Summary
+##  Email Header Analysis Summary
 
 Using MxToolbox Email Header Analyzer:
 - **SPF:** Fail — The domain did not authorize the sending IP.
@@ -47,7 +47,7 @@ These failures strongly indicate spoofing or misrepresentation.
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This email is a classic example of a phishing attempt using:
 - A **spoofed sender address**,
@@ -57,7 +57,7 @@ This email is a classic example of a phishing attempt using:
 
 ---
 
-## 📢 Recommendations
+##  Recommendations
 
 - **Do NOT click** on suspicious links.
 - **Verify** the sender's domain with official websites.
@@ -65,15 +65,10 @@ This email is a classic example of a phishing attempt using:
 - **Educate** employees and users on recognizing phishing attempts.
 - **Use email filtering tools** to prevent phishing emails from reaching inboxes.
 
----
-
-## 📁 Repository Structure
-
-
 
 ---
 
-## 📚 References
+##  References
 
 - [PayPal Phishing Help](https://www.paypal.com/us/webapps/mpp/security/report-problem)
 - [MxToolbox SPF/DKIM Tool](https://mxtoolbox.com)
